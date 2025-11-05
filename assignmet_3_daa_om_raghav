@@ -163,7 +163,4 @@ b\) **Base entries \$ C\[{k},k\] \$ for k = 2..4 with the given D:**
 -   C\[{4},4\] = D = 20\
     (assuming D=10, D=15, D=20)
 
-**References:**\
-Answers are supported by standard algorithm textbooks (like CLRS), and
-course references summarizing the principles, DP recurrences, and
-methods for each problem type requested.
+
